@@ -1,4 +1,8 @@
-# ⚙️ Industrial Predictive Maintenance System
+# Industrial Predictive Maintenance
+
+> Machine learning system for predicting industrial machine failures.
+
+### 🚀 [Live Demo](https://industrialpredictivemaintainance-fs8twyjkipvblpnvnecnyc.streamlit.app/)
 
 An end-to-end machine learning system for predicting industrial machine failures from operating and sensor parameters.
 
